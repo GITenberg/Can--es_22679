@@ -1,0 +1,46 @@
+_repo: Can--es_22679
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Balsemão, Jayme de
+    aliases:
+    - Balsemão, Jaime de
+    - Balsemao, Jayme de
+    birthdate: 1891
+    deathdate: 1947
+    gutenberg_agent_id: '25485'
+    url: http://www.gutenberg.org/2009/agents/25485
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boto, António Tomás
+    aliases:
+    - Boto, Antonio
+    - Botto, António
+    birthdate: 1897
+    deathdate: 1959
+    gutenberg_agent_id: '25484'
+    url: http://www.gutenberg.org/2009/agents/25484
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ant%C3%B3nio_Botto
+    - http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Botto
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22679'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nImprensa Libanio da Silva\r\n1921"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Canções
+url: http://www.gutenberg.org/ebooks/22679
